@@ -7,8 +7,8 @@
 //▮
 //▮REPORT ABUSE OF ZimBotInc SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮WHATSAPP US : +447441434595
+//▮YOUTUBE CHANNELL: https://youtube.com
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -16,7 +16,7 @@
 //┃ZimBotInc SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING ZIMBOT
+//┃THANKS FOR CHOOSING SKBOT
 //┃THANKS TO DIKA ARDNT
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -33,15 +33,15 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.owner = ['447441434595',''] //owner number +27634090203
+global.pemilik = ['447441434595'] //owner number +27634090203
+global.premium = ['447441434595'] //premium number +27634090203
+global.pengguna = 'Salman Sk' //username
+global.footer = 'SK DEVIL BOT'
+global.botnma = 'SK DEVIL BOT' //bot name
+global.ownernma = 'Salman Sk' //owner name
+global.packname = 'Salman Sk' //sticker package name
+global.author = 'By Salman Sk Memes' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
